@@ -67,13 +67,13 @@ Make sure you have [Ollama](https://github.com/ollama/ollama) installed on your 
 #### For Catnip Panorama
 
 ```bash
-ollama create catnip-panorama1.0 -f ./modelfiles/CatnipPanorama1.0
+ollama create catnip-panorama1.0 -f ./modelfiles/Catnip-Panorama1.0
 ```
 
 #### For Catnip Spotlight
 
 ```bash
-ollama create catnip-spotlight1.0 -f ./modelfiles/CatnipSpotlight1.0
+ollama create catnip-spotlight1.0 -f ./modelfiles/Catnip-Spotlight1.0
 ```
 
 ### 4. Run Catnip
