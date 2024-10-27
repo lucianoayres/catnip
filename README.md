@@ -1,8 +1,8 @@
 # 🐱 Catnip
 
-![catnip-banner](https://github.com/lucianoayres/modelzilla/blob/main/images/banner_catnip.png?raw=true)
+![catnip-banner](https://github.com/lucianoayres/catnip/blob/main/images/banner_catnip.png?raw=true)
 
-## Generate Comprehensive Categories or Discover a Single Insight with Catnip
+## Generate Comprehensive Categories for Any Topic Effortlessly
 
 [What's Catnip? 🐱](#whats-catnip) · [Why Use Catnip? 🚀](#why-use-catnip) · [How Does It Work? ⚙️](#how-does-it-work) · [Who Is It For? 🎯](#who-is-it-for) · [Modes of Catnip 🎛️](#modes-of-catnip) · [How to Use 🛠️](#how-to-use) · [Using Nino with Ollama 🐶](#using-nino-with-ollama) · [Templates 📄](#templates) · [Examples 📂](#examples) · [License 📄](#license) · [Contribution 🤝](#contribution)
 
