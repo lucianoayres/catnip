@@ -182,7 +182,7 @@ Examples of prompts you can provide to Catnip Spotlight:
 
 #### Output Example
 
-For the topic "Renewable Energy Technologies," Catnip Spotlight might output:
+For the topic "Renewable Energy Technologies", Catnip Spotlight might output:
 
 -   Tidal Energy
 
