@@ -1,6 +1,6 @@
 # 🐱 Catnip
 
-![catnip-banner](https://github.com/lucianoayres/modelzilla/blob/main/images/banner_catnip.png?raw=true)
+![catnip-banner](https://github.com/lucianoayres/catnip/blob/main/images/banner_catnip.png?raw=true)
 
 ## Generate Comprehensive Categories for Any Topic Effortlessly
 
