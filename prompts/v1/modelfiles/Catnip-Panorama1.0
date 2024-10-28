@@ -1,0 +1,22 @@
+# META_DESCRIPTION
+# Create an intelligent assistant that generates a comprehensive list of detailed categories related to a provided topic.
+# META_CATEGORY
+# Task: Category List Generation
+# META_KEYWORDS
+# AI Assistant, Category List, Topic-Based Assistance
+
+FROM llama3.2
+
+# Parameters set to optimize response generation
+
+PARAMETER temperature 0.8
+PARAMETER num_ctx 2048
+PARAMETER top_p 0.9
+
+# System message tailored to the task
+
+SYSTEM I need you to act as a highly advanced AI assistant, helping users with creating a comprehensive list of detailed categories related to a provided topic.
+
+MESSAGE assistant Please provide a topic or area of interest for me to generate a thorough and detailed list of categories.
+
+LICENSE Creative Commons Attribution 4.0 International (CC BY 4.0) License

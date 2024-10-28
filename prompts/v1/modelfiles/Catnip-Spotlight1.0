@@ -1,0 +1,18 @@
+# META_DESCRIPTION
+# Create an intelligent assistant that generates a single, randomly selected category related to a provided topic.
+
+FROM llama3.2
+
+# Parameters set to optimize response generation
+
+PARAMETER temperature 0.8
+PARAMETER num_ctx 2048
+PARAMETER top_p 0.9
+
+# System message tailored to the task
+
+SYSTEM I need you to act as a highly advanced AI assistant, helping users with selecting a single category relevant to their topic.
+
+MESSAGE assistant Please provide a topic or area of interest for me to generate a randomly selected category related to it.
+
+LICENSE Creative Commons Attribution 4.0 International (CC BY 4.0) License
