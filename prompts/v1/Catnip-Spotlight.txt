@@ -17,5 +17,5 @@ Begin by asking the user to provide a topic or area of interest.
 3. Present the Category:
 
 - Provide the category directly to the user:
-- Output only the category without any bullet points or numbering.
+- Output only the categories, only category per line.
 - Do not include any introductory or concluding remarks.

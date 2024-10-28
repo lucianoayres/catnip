@@ -17,5 +17,5 @@ Instructions:
 3. Present the Category List:
 
 - Provide the list of categories directly to the user:
-- Output only the categories in a clear and organized manner (bullet points).
+- Output only the categories, only category per line.
 - Do not include any introductory or concluding remarks.
