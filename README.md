@@ -145,7 +145,7 @@ The Catnip templates streamline task definition by organizing key components, ma
 
 4. **User Input** 💡: The specific idea, goal, or problem to generate the most effective output.
 
-### 🦖 Using Modelzilla to Generate Custom AI Models
+### Using Modelzilla 🦖 to Generate Custom AI Models
 
 We recommend using [**Modelzilla**](https://github.com/lucianoayres/modelzilla) 🦖 to generate custom-tailored AI models. Modelzilla can help you create Modelfiles for your specific tasks, allowing you to build personalized AI assistants that are perfectly suited to your needs.
 
